@@ -1,0 +1,11 @@
+.App {
+    width: 50%;
+    margin: 100px auto;
+    border-radius: 4px;
+    padding: 10px;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    text-align: center;
+    font-size: 0.8em;
+}
